@@ -2,9 +2,8 @@
 
 **BSAI Student | Aspiring Data Scientist & AI Engineer**
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alihyder-110&show_icons=true&theme=radical&hide_border=false" alt="Ali's GitHub Stats" />
-</p>
+![Followers](https://img.shields.io/github/followers/Alihyder-110?style=for-the-badge&logo=github&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Alihyder-110&color=blue&style=for-the-badge)
 
 ### 🚀 About Me
 - 🎓 Studying Bachelor of Science in Artificial Intelligence
